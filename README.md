@@ -1,12 +1,12 @@
 # 🪐 Clonverse OS
-**Enterprise AI Educational Architecture | Built for IBM Z**
+**Enterprise AI Educational Architecture | Built for all
 
 [![Status](https://img.shields.io/badge/OS-Stable-red.svg)]() 
 [![Uplink](https://img.shields.io/badge/Network-Online-white.svg)]()
 
 ---
 
-## 🔗 Official System Link
+## 🔗 Official landing page
 **Access the Clonverse Ecosystem directly via the secure uplink:**
 
 ### **[https://wondrous-buttercream-4c0a2e.netlify.app/](https://wondrous-buttercream-4c0a2e.netlify.app/)**
