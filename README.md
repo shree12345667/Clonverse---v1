@@ -52,7 +52,7 @@ Use these commands inside the kernel to control the OS:
 
 ## 🏗️ Technical Niche
 **System Architecture & DePIN Infrastructure.** Clonverse OS provides a secure, high-performance offline execution layer designed to bridge the gap between high-level applications and bare-metal enterprise infrastructure.
-
+source code is in the release section
 ---
 **Lead Developer:** Shree  
 *Class 7 | Full-Stack System Architect*
