@@ -9,7 +9,7 @@
 ## 🔗 Official landing page
 **Access the Clonverse Ecosystem directly via the secure uplink:**
 
-### **[https://wondrous-buttercream-4c0a2e.netlify.app/](https://wondrous-buttercream-4c0a2e.netlify.app/)**
+### **[https://guileless-gingersnap-150fd4.netlify.app/)**
 
 ---
 
